@@ -84,8 +84,8 @@ A **Flutter** application designed to transcribe speech to text, extract action 
 
 For a step-by-step guide on how to use the Smart Voice Assistant App, watch the video tutorial below:
 
-[**Watch the Video Tutorial**](#)  
-*(Link to video tutorial will be updated here once available)*
+[**Watch the Video Tutorial**](https://drive.google.com/file/d/1PNvzNING-UaQ4Fn8NzbDHGjq9akFiOMe/view?usp=sharing)  
+
 
 This tutorial covers:
 
